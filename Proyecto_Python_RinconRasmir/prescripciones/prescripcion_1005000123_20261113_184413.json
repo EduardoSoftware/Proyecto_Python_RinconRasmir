@@ -1,0 +1,22 @@
+{
+    "fecha": "2026-11-13 18:44:13",
+    "paciente": {
+        "identificacion": "1005000123",
+        "nombres": "Anthony Yaitron",
+        "apellidos": "Rincon Carrillo"
+    },
+    "medico": {
+        "identificacion": "0000",
+        "nombres": "Admin",
+        "apellidos": "Administrador"
+    },
+    "diagnostico": "Migrania",
+    "prescripcion_medica": [
+        {
+            "medicamento": "Dolex forte",
+            "cantidad": "8 pastillas",
+            "dosis": "1 cada 8 horas, hasta agotar existencia",
+            "tiempo_aplicacion": "3 dias"
+        }
+    ]
+}
