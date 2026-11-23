@@ -1,0 +1,14 @@
+{
+    "años": {
+        "2026": {
+            "total_diagnosticos": 3,
+            "medicos_participantes": 2,
+            "pacientes_atendidos": 3,
+            "promedio_sintomas": 1.67,
+            "promedio_medicamentos": 1.67,
+            "diagnostico_mas_comun": "Migrania",
+            "primer_diagnostico": "2026-11-13 18:44:13 - Migrania",
+            "ultimo_diagnostico": "2026-11-18 18:52:04 - crecimiento prematuro"
+        }
+    }
+}

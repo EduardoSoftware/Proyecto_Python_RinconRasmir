@@ -1,0 +1,28 @@
+{
+    "fecha": "2026-11-18 18:52:04",
+    "paciente": {
+        "identificacion": "098765",
+        "nombres": "Natilla rincon",
+        "apellidos": "torrado"
+    },
+    "medico": {
+        "identificacion": "0000",
+        "nombres": "Admin",
+        "apellidos": "Administrador"
+    },
+    "diagnostico": "crecimiento prematuro",
+    "prescripcion_medica": [
+        {
+            "medicamento": "cevedol",
+            "cantidad": "8",
+            "dosis": "2",
+            "tiempo_aplicacion": "12 horas, 4 dias"
+        },
+        {
+            "medicamento": "acetaminofen",
+            "cantidad": "2",
+            "dosis": "1 dia",
+            "tiempo_aplicacion": "2 dias"
+        }
+    ]
+}

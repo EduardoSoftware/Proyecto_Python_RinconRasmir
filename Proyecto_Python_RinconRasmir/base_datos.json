@@ -17,6 +17,24 @@
             "email": "eduardo_doctor@acmeclinic.com",
             "direccion": "Calle 19 #6",
             "clave": "12345"
+        },
+        {
+            "identificacion": "1005062279",
+            "nombres": "Jeyralith Zharay",
+            "apellidos": "Gulloso Carrillo",
+            "telefono": "302595898123",
+            "email": "zharay_vet@acme.com",
+            "direccion": "calle 19",
+            "clave": "12345"
+        },
+        {
+            "identificacion": "60379533",
+            "nombres": "albina",
+            "apellidos": "torrado peniaranda",
+            "telefono": "3108157777",
+            "email": "albina_doctora@acmeclinic.com",
+            "direccion": "calle 19 #",
+            "clave": "12345"
         }
     ],
     "pacientes": [
@@ -41,6 +59,70 @@
                             "cantidad": "8 pastillas",
                             "dosis": "1 cada 8 horas, hasta agotar existencia",
                             "tiempo_aplicacion": "3 dias"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "identificacion": "100506123",
+            "nombres": "Netilla Pitbulla",
+            "apellidos": "Rincon Carrillo",
+            "telefono": "3249201123",
+            "email": "natillapitbulla@gmail.com",
+            "direccion": "calle 19",
+            "genero": "femenina",
+            "estado_civil": "casda",
+            "historial": [
+                {
+                    "fecha": "2026-11-13 20:37:34",
+                    "medico": "Jeyralith Zharay Gulloso Carrillo",
+                    "sintomas": "Belleza absoluta, panza abrigada",
+                    "diagnostico": "fiebre y cachorrilidad",
+                    "prescripcion": [
+                        {
+                            "medicamento": "muchos besos",
+                            "cantidad": "infinito",
+                            "dosis": "muchos",
+                            "tiempo_aplicacion": "por siempre"
+                        },
+                        {
+                            "medicamento": "abrasos",
+                            "cantidad": "muchos",
+                            "dosis": "muchisimos",
+                            "tiempo_aplicacion": "por siempre"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "identificacion": "098765",
+            "nombres": "Natilla rincon",
+            "apellidos": "torrado",
+            "telefono": "12345",
+            "email": "natilla_paciente@gmail.com",
+            "direccion": "calle 19",
+            "genero": "mascota",
+            "estado_civil": "mascota",
+            "historial": [
+                {
+                    "fecha": "2026-11-18 18:52:04",
+                    "medico": "Admin Administrador",
+                    "sintomas": "dolor de cabeza, dolor de huesos",
+                    "diagnostico": "crecimiento prematuro",
+                    "prescripcion": [
+                        {
+                            "medicamento": "cevedol",
+                            "cantidad": "8",
+                            "dosis": "2",
+                            "tiempo_aplicacion": "12 horas, 4 dias"
+                        },
+                        {
+                            "medicamento": "acetaminofen",
+                            "cantidad": "2",
+                            "dosis": "1 dia",
+                            "tiempo_aplicacion": "2 dias"
                         }
                     ]
                 }

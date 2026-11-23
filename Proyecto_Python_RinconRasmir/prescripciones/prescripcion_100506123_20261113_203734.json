@@ -1,0 +1,28 @@
+{
+    "fecha": "2026-11-13 20:37:34",
+    "paciente": {
+        "identificacion": "100506123",
+        "nombres": "Netilla Pitbulla",
+        "apellidos": "Rincon Carrillo"
+    },
+    "medico": {
+        "identificacion": "1005062279",
+        "nombres": "Jeyralith Zharay",
+        "apellidos": "Gulloso Carrillo"
+    },
+    "diagnostico": "fiebre y cachorrilidad",
+    "prescripcion_medica": [
+        {
+            "medicamento": "muchos besos",
+            "cantidad": "infinito",
+            "dosis": "muchos",
+            "tiempo_aplicacion": "por siempre"
+        },
+        {
+            "medicamento": "abrasos",
+            "cantidad": "muchos",
+            "dosis": "muchisimos",
+            "tiempo_aplicacion": "por siempre"
+        }
+    ]
+}
